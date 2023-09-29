@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="admin123@10.10.64.230:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/admin123/jmtang/SA_PPO" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pp@10.10.64.185:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/SA_PPO" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tatevin">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/jmtang/SA_PPO" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
